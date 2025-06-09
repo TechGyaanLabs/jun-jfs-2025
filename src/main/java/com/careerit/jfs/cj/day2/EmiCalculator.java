@@ -16,20 +16,23 @@ public class EmiCalculator {
         System.out.print("Enter Loan Tenure (in months): ");
         int tenureMonths = sc.nextInt();
 
+        double emi = calculateEmi(principal, annualRate, tenureMonths);
+        displayResult(emi, tenureMonths, principal);
+    }
 
-        // Convert annual rate to monthly and percentage to decimal
-        double monthlyRate = (annualRate / 100) / 12;
-
-        double emi = principal * monthlyRate * (
-                Math.pow(1 + monthlyRate, tenureMonths) /
-                        (Math.pow(1 + monthlyRate, tenureMonths) - 1)
-        );
-
+    private static void displayResult(double emi, int tenureMonths, double principal) {
         double totalPayment = emi * tenureMonths;
         double totalInterest = totalPayment - principal;
-
         System.out.println("EMI: " + Math.round(emi));
         System.out.println("Total Payment: " + Math.round(totalPayment));
         System.out.println("Total Interest: " + Math.round(totalInterest));
+    }
+
+    private static double calculateEmi(double principal, double interestRate, int tenureMonths) {
+        double monthlyInterest = interestRate / 12 / 100;
+        return principal * monthlyInterest *
+                Math.pow(1 + monthlyInterest, tenureMonths) / 
+                (Math.pow(1 + monthlyInterest, tenureMonths) - 1);
+
     }
 }
