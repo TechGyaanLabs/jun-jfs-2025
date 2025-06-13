@@ -37,7 +37,11 @@ public class MathCommonInterviewQuestions {
 
     public int factorial(int n){
         // Write logic to find the factorial of a number
-        return 0;
+        int fact = 1;
+        for (int i = 2; i <= n; i++) {
+            fact *= i;
+        }
+        return fact;
     }
     public int sumOfNaturalNumbers(int n){
         // Write logic to find the sum of digits of a number
