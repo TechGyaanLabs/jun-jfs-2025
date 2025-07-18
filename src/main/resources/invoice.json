@@ -1,0 +1,55 @@
+{
+  "invoiceId": "INV-2025-0012",
+  "invoiceDate": "2025-07-17",
+  "dueDate": "2025-07-31",
+  "currency": "INR",
+  "status": "Pending",
+
+  "sender": {
+    "companyName": "G3 Chole Bhature & Fresh Juices",
+    "address": "12th Cross, JP Nagar, Bangalore",
+    "phone": "+91-9876543210",
+    "email": "contact@g3chole.com",
+    "gstNumber": "29ABCDE1234F1Z5"
+  },
+
+  "recipient": {
+    "companyName": "Tech Solutions Pvt Ltd",
+    "contactPerson": "Amit Sharma",
+    "address": "5th Floor, Innovate Tower, Hyderabad",
+    "phone": "+91-9123456780",
+    "email": "amit@techsolutions.com",
+    "gstNumber": "36XYZDE4567A2Z3"
+  },
+
+  "items": [
+    {
+      "description": "Chole Bhature Combo",
+      "quantity": 10,
+      "unitPrice": 120.00,
+      "taxRate": 5,
+      "total": 1260.00
+    },
+    {
+      "description": "Fresh Orange Mojito",
+      "quantity": 5,
+      "unitPrice": 80.00,
+      "taxRate": 5,
+      "total": 420.00
+    },
+    {
+      "description": "Special Butter Milk (350 ml)",
+      "quantity": 3,
+      "unitPrice": 30.00,
+      "taxRate": 0,
+      "total": 90.00
+    }
+  ],
+
+  "subtotal": 1770.00,
+  "taxTotal": 85.50,
+  "grandTotal": 1855.50,
+
+  "notes": "Thank you for your business!",
+  "terms": "Payment due within 14 days. Late fee may apply."
+}
