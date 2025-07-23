@@ -13,4 +13,9 @@ import java.util.List;
 public class McqQuestion extends Question {
     private List<String> options;
     private String answer;
+
+    @Override
+    public String getType() {
+        return "MCQ";
+    }
 }

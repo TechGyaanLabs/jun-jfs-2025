@@ -1,14 +1,19 @@
 package com.careerit.jfs.cj.day26.country;
 
-import com.careerit.jfs.cj.day13.one.A;
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import lombok.Data;
 
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.List;
 
+@Data
+class Pair{
+    double max;
+    double min;
+}
 public class CountryManager {
 
     public static void main(String[] args) {
@@ -18,16 +23,65 @@ public class CountryManager {
 
         // Get the unique regions
 
+        List<String> uniqueRegions = countries
+                .stream()
+                .map(Country::getRegion)
+                .distinct()
+                .toList();
+        System.out.println("Unique regions: " + uniqueRegions);
 
         // Get the country with maximum population
 
+         Pair pair = getMaxAndMinPopulation(countries);
 
-        // Get the country with minimum population
+         List<Country> maxPopulationCountries = getMaxPopulationCountries(countries, pair.getMax());
+         List<Country> minPopulationCountries = getMinPopulationCountries(countries, pair.getMin());
 
+        System.out.println("Max population is :"+pair.getMax());
+        for(Country country : maxPopulationCountries){
+            System.out.println(country.getCommonName()+" "+country.getArea()+" "+country.getPopulation());
+        }
 
+        System.out.println("Min population is :"+pair.getMin());
+        for(Country country : minPopulationCountries){
+            System.out.println(country.getCommonName()+" "+country.getArea()+" "+country.getPopulation());
+        }
         // Get smallest and largest country in terms of area
 
 
+    }
+
+    private static List<Country> getMaxPopulationCountries(List<Country> countries, double maxPopulation) {
+        return
+                countries
+                .stream()
+                .filter(country -> country.getPopulation() == maxPopulation)
+                .toList();
+    }
+
+    private static List<Country> getMinPopulationCountries(List<Country> countries, double minPopulation) {
+        return
+                countries
+                .stream()
+                .filter(country -> country.getPopulation() == minPopulation)
+                .toList();
+    }
+
+    private static Pair getMaxAndMinPopulation(List<Country> countries) {
+        double maxPopulation = countries.get(0).getPopulation();
+        double minPopulation = countries.get(0).getPopulation();
+
+        for (Country country : countries) {
+            if (country.getPopulation() > maxPopulation) {
+                maxPopulation = country.getPopulation();
+            }
+            if (country.getPopulation() < minPopulation) {
+                minPopulation = country.getPopulation();
+            }
+        }
+        Pair pair = new Pair();
+        pair.setMax(maxPopulation);
+        return pair;
     }
 
     private static List<Country> getAllCountryDetails() {

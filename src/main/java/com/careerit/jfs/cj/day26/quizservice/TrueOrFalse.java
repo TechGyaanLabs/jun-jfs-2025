@@ -8,4 +8,9 @@ import lombok.Setter;
 @Setter
 public class TrueOrFalse extends Question {
     private boolean answer;
+
+    @Override
+    public String getType() {
+        return "TOF";
+    }
 }

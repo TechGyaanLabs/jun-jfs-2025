@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "type": "MCQ",
+    "question": "Which of the following is used to define a function in Python?",
+    "options": ["A: function", "B: def", "C: fun", "D: define"],
+    "answer": "B"
+  },
+  {
+    "id": 2,
+    "type": "MCQ",
+    "question": "What is the output of print(2 ** 3)?",
+    "options": ["A: 6", "B: 8", "C: 9", "D: 5"],
+    "answer": "B"
+  },
+  {
+    "id": 3,
+    "type": "MCQ",
+    "question": "Which of the following is a valid variable name in Python?",
+    "options": ["A: 2var", "B: var_2", "C: var-2", "D: var 2"],
+    "answer": "B"
+  },
+  {
+    "id": 4,
+    "type": "MCQ",
+    "question": "Which keyword is used for loop in Python?",
+    "options": ["A: for", "B: loop", "C: iterate", "D: repeat"],
+    "answer": "A"
+  },
+  {
+    "id": 5,
+    "type": "MCQ",
+    "question": "What is the output of print(type([]))?",
+    "options": ["A: <class 'list'>", "B: <class 'tuple'>", "C: <class 'dict'>", "D: <class 'set'>"],
+    "answer": "A"
+  },
+  {
+    "id": 6,
+    "type": "MCQ",
+    "question": "Which of the following is used to start a comment in Python?",
+    "options": ["A: //", "B: <!--", "C: #", "D: /*"],
+    "answer": "C"
+  },
+  {
+    "id": 7,
+    "type": "MCQ",
+    "question": "Which function is used to get the length of a list in Python?",
+    "options": ["A: count()", "B: size()", "C: length()", "D: len()"],
+    "answer": "D"
+  },
+  {
+    "id": 8,
+    "type": "MCQ",
+    "question": "What is the output of print(10 // 3)?",
+    "options": ["A: 3.33", "B: 3", "C: 3.0", "D: 4"],
+    "answer": "B"
+  },
+  {
+    "id": 9,
+    "type": "MCQ",
+    "question": "Which of the following is not a valid data type in Python?",
+    "options": ["A: list", "B: tuple", "C: array", "D: dict"],
+    "answer": "C"
+  },
+  {
+    "id": 10,
+    "type": "MCQ",
+    "question": "Which keyword is used to handle exceptions in Python?",
+    "options": ["A: catch", "B: try", "C: handle", "D: error"],
+    "answer": "B"
+  }
+]

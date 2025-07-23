@@ -11,4 +11,9 @@ import java.util.List;
 public class MatchTheFollowingQuestion extends Question {
     private List<MPair> pairs;
     private List<MPair> answer;
+
+    @Override
+    public String getType() {
+        return "MTF";
+    }
 }

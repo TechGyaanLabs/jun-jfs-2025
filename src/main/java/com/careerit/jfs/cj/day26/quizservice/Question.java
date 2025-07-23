@@ -22,4 +22,5 @@ import lombok.ToString;
 public abstract class Question {
     long id;
     String question;
+    public abstract String getType();
 }

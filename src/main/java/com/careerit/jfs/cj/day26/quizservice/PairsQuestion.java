@@ -11,4 +11,9 @@ import java.util.List;
 public class PairsQuestion extends Question {
         private List<Pairs> pairs;
         private List<Pairs> answer;
+
+        @Override
+        public String getType() {
+                return "Pairs";
+        }
 }
