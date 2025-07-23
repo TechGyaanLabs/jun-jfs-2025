@@ -17,16 +17,54 @@ public class CountryManager {
         System.out.println("Total countries: " + countries.size());
 
         // Get the unique regions
-
+        List<String> uniqueRegions = new ArrayList<>();
+        for (Country country : countries) {
+            if (!uniqueRegions.contains(country.getRegion())) {
+                uniqueRegions.add(country.getRegion());
+            }
+        }
+        System.out.println("Unique regions list: "+uniqueRegions);
 
         // Get the country with maximum population
-
+        String maxPopulationCountry = null;
+        long maxPopulation = Long.MIN_VALUE;
+        for (Country country : countries) {
+            if (maxPopulation < country.getPopulation()) {
+                maxPopulation = country.getPopulation();
+                maxPopulationCountry = country.getCommonName();
+            }
+        }
+        System.out.println("Maximum population country: "+maxPopulationCountry);
 
         // Get the country with minimum population
-
+        String minPopulationCountry = null;
+        long minPopulation = Long.MAX_VALUE;
+        for (Country country : countries) {
+            if (minPopulation > country.getPopulation()) {
+                minPopulation = country.getPopulation();
+                minPopulationCountry = country.getCommonName();
+            }
+        }
+        System.out.println("Minimum population country: "+minPopulationCountry);
 
         // Get smallest and largest country in terms of area
+        String smallAreaCountry = null;
+        String largeAreaCountry = null;
+        long smallArea = Long.MAX_VALUE;
+        long largeArea = Long.MIN_VALUE;
+        for (Country country : countries) {
+            if (smallArea > country.getArea()) {
+               smallArea = country.getArea();
+               smallAreaCountry = country.getCommonName();
+            }
 
+            if (largeArea < country.getArea()) {
+                largeArea = country.getArea();
+                largeAreaCountry = country.getCommonName();
+            }
+        }
+        System.out.println("Smallest area country: "+smallAreaCountry);
+        System.out.println("Largest area country: "+largeAreaCountry);
 
     }
 
