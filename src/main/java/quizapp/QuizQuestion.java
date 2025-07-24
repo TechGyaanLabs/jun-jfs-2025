@@ -7,7 +7,7 @@ import java.util.List;
 
 @Getter
 @Setter
-public class QuizQuestion {
+public class QuizQuestion extends  Object{
     private int id;
     private String question;
     private String type;
