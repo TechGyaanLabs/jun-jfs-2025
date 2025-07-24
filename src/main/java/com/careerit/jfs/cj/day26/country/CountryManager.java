@@ -47,6 +47,20 @@ public class CountryManager {
             System.out.println(country.getCommonName()+" "+country.getArea()+" "+country.getPopulation());
         }
         // Get smallest and largest country in terms of area
+        Pair areaPair = getMaxAndMinArea(countries);
+
+        List<Country> maxAreaCountries = getMaxAreaCountries(countries, areaPair.getMax());
+        List<Country> minAreaCountries = getMinAreaCountries(countries, areaPair.getMin());
+
+        System.out.println("Largest area: " + areaPair.getMax());
+        for (Country country : maxAreaCountries) {
+            System.out.println(country.getCommonName() + " " + country.getArea());
+        }
+
+        System.out.println("Smallest area: " + areaPair.getMin());
+        for (Country country : minAreaCountries) {
+            System.out.println(country.getCommonName() + " " + country.getArea());
+        }
 
 
     }
@@ -82,6 +96,36 @@ public class CountryManager {
         Pair pair = new Pair();
         pair.setMax(maxPopulation);
         return pair;
+    }
+    private static Pair getMaxAndMinArea(List<Country> countries) {
+        double maxArea = countries.get(0).getArea();
+        double minArea = countries.get(0).getArea();
+
+        for (Country country : countries) {
+            if (country.getArea() > maxArea) {
+                maxArea = country.getArea();
+            }
+            if (country.getArea() < minArea) {
+                minArea = country.getArea();
+            }
+        }
+
+        Pair pair = new Pair();
+        pair.setMax(maxArea);
+        pair.setMin(minArea);
+        return pair;
+    }
+
+    private static List<Country> getMaxAreaCountries(List<Country> countries, double maxArea) {
+        return countries.stream()
+                .filter(country -> country.getArea() == maxArea)
+                .toList();
+    }
+
+    private static List<Country> getMinAreaCountries(List<Country> countries, double minArea) {
+        return countries.stream()
+                .filter(country -> country.getArea() == minArea)
+                .toList();
     }
 
     private static List<Country> getAllCountryDetails() {
