@@ -3,6 +3,7 @@ package com.careerit.jfs.cj.day28.cms;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 
 public class CourseServiceImpl implements CourseService {
 
@@ -19,26 +20,35 @@ public class CourseServiceImpl implements CourseService {
 
     @Override
     public List<Course> getActiveCourses() {
-       return null;
+       return courses.stream()
+               .filter(course -> "Active".equalsIgnoreCase(course.getStatus()))
+               .collect(Collectors.toList());
     }
 
     @Override
     public List<Course> getCoursesPriceBetween(double min, double max) {
-        return List.of();
+        return courses.stream()
+                .filter(course -> course.getFee() >= min && course.getFee() <= max)
+                .collect(Collectors.toList());
     }
 
     @Override
     public List<String> getActiveCourseNames() {
-        return List.of();
+        return courses.stream()
+                .filter(course -> "Active".equalsIgnoreCase(course.getStatus()))
+                .map(Course::getName)
+                .collect(Collectors.toList());
     }
 
     @Override
     public Map<String, Double> getCoursePriceMap() {
-        return Map.of();
+        return courses.stream()
+                .collect(Collectors.toMap(Course :: getName ,  Course::getFee));
     }
 
     @Override
     public Map<String, List<Course>> getCourseMapByCategory() {
-        return Map.of();
+        return courses.stream()
+                .collect(Collectors.groupingBy(Course::getCategory));
     }
 }
