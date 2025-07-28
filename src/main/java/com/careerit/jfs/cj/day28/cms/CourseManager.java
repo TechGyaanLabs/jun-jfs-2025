@@ -9,8 +9,6 @@ public class CourseManager {
     public static void main(String[] args) {
 
 
-
-
         CourseService courseService = new CourseServiceImpl();
         Scanner scanner = new Scanner(System.in);
 
@@ -23,7 +21,8 @@ public class CourseManager {
             System.out.println("4. View Active Courses");
             System.out.println("5. View Active Course Names");
             System.out.println("6. View Course name and Price");
-            System.out.println("7. Exit");
+            System.out.println("7. View Courses sort by Price");
+            System.out.println("8. Exit");
             System.out.println("-".repeat(150));
             System.out.print("Enter your choice: ");
             int choice = scanner.nextInt();
@@ -31,13 +30,13 @@ public class CourseManager {
             switch (choice) {
                 case 1:
                     List<Course> allCourses = courseService.getAllCourses();
-                    showCourseDetails(allCourses,"No courses are added yet.... please add course");
+                    showCourseDetails(allCourses, "No courses are added yet.... please add course");
                     break;
                 case 2:
                     Map<String, List<Course>> courseMapByCategory = courseService.getCourseMapByCategory();
                     courseMapByCategory.forEach((category, courses) -> {
                         System.out.println("Category: " + category);
-                        showCourseDetails(courses,"Category: " + category+" has no course");
+                        showCourseDetails(courses, "Category: " + category + " has no course");
                         System.out.println(".".repeat(100));
                     });
                     break;
@@ -48,17 +47,17 @@ public class CourseManager {
                     double maxPrice = scanner.nextDouble();
                     String message = "No courses found in the price range " + minPrice + " to " + maxPrice;
                     List<Course> coursesByPriceRange = courseService.getCoursesPriceBetween(minPrice, maxPrice);
-                    showCourseDetails(coursesByPriceRange,message);
+                    showCourseDetails(coursesByPriceRange, message);
                     break;
                 case 4:
                     List<Course> activeCourses = courseService.getActiveCourses();
-                    showCourseDetails(activeCourses,"No active courses found");
+                    showCourseDetails(activeCourses, "No active courses found");
                     break;
                 case 5:
                     List<String> activeCourseNames = courseService.getActiveCourseNames();
-                    if(activeCourseNames.isEmpty()) {
+                    if (activeCourseNames.isEmpty()) {
                         System.out.println("No active course names found");
-                    }else {
+                    } else {
                         activeCourseNames.forEach(System.out::println);
                     }
                     break;
@@ -71,6 +70,10 @@ public class CourseManager {
                     });
                     break;
                 case 7:
+                    List<Course> sortedCourses = courseService.getCoursesSortedByFee("desc");
+                    showCourseDetails(sortedCourses, "No courses found");
+                    break;
+                case 8:
                     System.out.println("Goodbye!");
                     return;
                 default:
@@ -80,10 +83,11 @@ public class CourseManager {
 
 
     }
-    public static void showCourseDetails(List<Course> courses,String message) {
-        if(courses.isEmpty()) {
+
+    public static void showCourseDetails(List<Course> courses, String message) {
+        if (courses.isEmpty()) {
             System.out.println(message);
-        }else {
+        } else {
             for (Course course : courses) {
                 System.out.println("Course Name: " + course.getName());
                 System.out.println("Title: " + course.getTitle());

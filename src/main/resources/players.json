@@ -1,1591 +1,1598 @@
 [
   {
     "name": "Ruturaj Gaikwad",
-    "amount": 180000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "CSK"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "CSK",
+    "price": 18.0
   },
   {
     "name": "Ravindra Jadeja",
-    "amount": 180000000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "CSK"
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "CSK",
+    "price": 18.0
   },
   {
-    "name": "Matheesha Pathirana (Sri Lanka)",
-    "amount": 130000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "CSK"
+    "name": "Matheesha Pathirana",
+    "role": "BOWLER",
+    "country": "Sri Lanka",
+    "team": "CSK",
+    "price": 13.0
   },
   {
     "name": "Shivam Dube",
-    "amount": 120000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "CSK"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "CSK",
+    "price": 12.0
   },
   {
     "name": "MS Dhoni",
-    "amount": 40000000,
+    "role": "WICKETKEEPER",
     "country": "India",
-    "role": "Batter/Wicketkeeper",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 4.0
   },
   {
-    "name": "Devon Conway (New Zealand)",
-    "amount": 62500000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "CSK"
+    "name": "Devon Conway",
+    "role": "BATSMAN",
+    "country": "New Zealand",
+    "team": "CSK",
+    "price": 6.25
   },
   {
     "name": "Rahul Tripathi",
-    "amount": 34000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "CSK"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "CSK",
+    "price": 3.4
   },
   {
-    "name": "Rachin Ravindra (New Zealand)",
-    "amount": 40000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "CSK"
+    "name": "Rachin Ravindra",
+    "role": "ALL_ROUNDER",
+    "country": "New Zealand",
+    "team": "CSK",
+    "price": 4.0
   },
   {
     "name": "Ravichandran Ashwin",
-    "amount": 97500000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "CSK"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "CSK",
+    "price": 9.75
   },
   {
     "name": "Syed Khaleel Ahmed",
-    "amount": 48000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "CSK"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "CSK",
+    "price": 4.8
   },
   {
-    "name": "Noor Ahmad (Afghanistan)",
-    "amount": 100000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "CSK"
+    "name": "Noor Ahmad",
+    "role": "BOWLER",
+    "country": "Afghanistan",
+    "team": "CSK",
+    "price": 10.0
   },
   {
     "name": "Vijay Shankar",
-    "amount": 12000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 1.2
   },
   {
     "name": "Sam Curran",
-    "amount": 24000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "CSK"
+    "role": "ALL_ROUNDER",
+    "country": "England",
+    "team": "CSK",
+    "price": 2.4
   },
   {
     "name": "Shaik Rasheed",
-    "amount": 3000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 0.3
   },
   {
     "name": "Anshul Kamboj",
-    "amount": 34000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 3.4
   },
   {
     "name": "Mukesh Choudhary",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 0.3
   },
   {
     "name": "Deepak Hooda",
-    "amount": 17000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 1.7
   },
   {
     "name": "Gurjapneet Singh",
-    "amount": 22000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 2.2
   },
   {
-    "name": "Nathan Ellis (Australia)",
-    "amount": 12500000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "CSK"
+    "name": "Nathan Ellis",
+    "role": "BOWLER",
+    "country": "Australia",
+    "team": "CSK",
+    "price": 1.25
   },
   {
     "name": "Ramakrishna Ghosh",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 0.3
   },
   {
     "name": "Kamlesh Nagarkoti",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 0.3
   },
   {
     "name": "Jamie Overton",
-    "amount": 15000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "CSK"
+    "role": "ALL_ROUNDER",
+    "country": "England",
+    "team": "CSK",
+    "price": 1.5
   },
   {
     "name": "Shreyas Gopal",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 0.3
   },
   {
     "name": "Vansh Bedi",
-    "amount": 5500000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 0.55
   },
   {
     "name": "C Andre Siddarth",
-    "amount": 3000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "CSK"
+    "team": "CSK",
+    "price": 0.3
   },
   {
     "name": "Axar Patel",
-    "amount": 165000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "DC"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "DC",
+    "price": 16.5
   },
   {
     "name": "Kuldeep Yadav",
-    "amount": 132500000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "DC"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "DC",
+    "price": 13.25
   },
   {
-    "name": "Tristan Stubbs (South Africa)",
-    "amount": 100000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "DC"
+    "name": "Tristan Stubbs",
+    "role": "BATSMAN",
+    "country": "South Africa",
+    "team": "DC",
+    "price": 10.0
   },
   {
     "name": "Abishek Porel",
-    "amount": 40000000,
+    "role": "WICKETKEEPER",
     "country": "India",
-    "role": "Batter/Wicketkeeper",
-    "team": "DC"
+    "team": "DC",
+    "price": 4.0
   },
   {
-    "name": "Mitchell Starc (Australia)",
-    "amount": 117500000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "DC"
+    "name": "Mitchell Starc",
+    "role": "BOWLER",
+    "country": "Australia",
+    "team": "DC",
+    "price": 11.75
   },
   {
     "name": "KL Rahul",
-    "amount": 140000000,
-    "country": "Indian",
-    "role": "Batter/Wicketkeeper",
-    "team": "DC"
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "team": "DC",
+    "price": 14.0
   },
   {
-    "name": "Jake Fraser-Mcgurk (Australia)",
-    "amount": 90000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "DC"
+    "name": "Harry Brook",
+    "role": "BATSMAN",
+    "country": "England",
+    "team": "DC",
+    "price": 6.25
+  },
+  {
+    "name": "Jake Fraser-Mcgurk",
+    "role": "BATSMAN",
+    "country": "Australia",
+    "team": "DC",
+    "price": 9.0
   },
   {
     "name": "T Natarajan",
-    "amount": 107500000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "DC"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "DC",
+    "price": 10.75
   },
   {
     "name": "Karun Nair",
-    "amount": 5000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "DC"
+    "team": "DC",
+    "price": 0.5
   },
   {
     "name": "Sameer Rizvi",
-    "amount": 9500000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "DC"
+    "team": "DC",
+    "price": 0.95
   },
   {
     "name": "Ashutosh Sharma",
-    "amount": 38000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "DC"
+    "team": "DC",
+    "price": 3.8
   },
   {
     "name": "Mohit Sharma",
-    "amount": 22000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "DC"
+    "team": "DC",
+    "price": 2.2
   },
   {
-    "name": "Faf du Plessis (South Africa)",
-    "amount": 20000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "DC"
+    "name": "Faf du Plessis",
+    "role": "BATSMAN",
+    "country": "South Africa",
+    "team": "DC",
+    "price": 2.0
   },
   {
     "name": "Mukesh Kumar",
-    "amount": 80000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "DC"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "DC",
+    "price": 8.0
   },
   {
     "name": "Darshan Nalkande",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "DC"
+    "team": "DC",
+    "price": 0.3
   },
   {
     "name": "Vipraj Nigam",
-    "amount": 5000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "DC"
+    "team": "DC",
+    "price": 0.5
   },
   {
-    "name": "Dushmantha Chameera (Sri Lanka)",
-    "amount": 7500000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "DC"
+    "name": "Dushmantha Chameera",
+    "role": "BOWLER",
+    "country": "Sri Lanka",
+    "team": "DC",
+    "price": 0.75
   },
   {
     "name": "Donovan Ferreira",
-    "amount": 7500000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "DC"
+    "role": "BATSMAN",
+    "country": "South Africa",
+    "team": "DC",
+    "price": 0.75
   },
   {
     "name": "Ajay Mandal",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "DC"
+    "team": "DC",
+    "price": 0.3
   },
   {
     "name": "Manvanth Kumar",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "DC"
+    "team": "DC",
+    "price": 0.3
   },
   {
     "name": "Madhav Tiwari",
-    "amount": 4000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "DC"
+    "team": "DC",
+    "price": 0.4
   },
   {
     "name": "Tripurana Vijay",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "DC"
+    "team": "DC",
+    "price": 0.3
   },
   {
-    "name": "Rashid Khan (Afghanistan)",
-    "amount": 180000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "GT"
+    "name": "Rashid Khan",
+    "role": "BOWLER",
+    "country": "Afghanistan",
+    "team": "GT",
+    "price": 18.0
   },
   {
     "name": "Shubman Gill",
-    "amount": 165000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "GT"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "GT",
+    "price": 16.5
   },
   {
     "name": "Sai Sudharsan",
-    "amount": 85000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "GT"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "GT",
+    "price": 8.5
   },
   {
     "name": "Rahul Tewatia",
-    "amount": 40000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "GT"
+    "team": "GT",
+    "price": 4.0
   },
   {
     "name": "Shahrukh Khan",
-    "amount": 40000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "GT"
+    "team": "GT",
+    "price": 4.0
   },
   {
-    "name": "Kagiso Rabada (South Africa)",
-    "amount": 107500000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "GT"
+    "name": "Kagiso Rabada",
+    "role": "BOWLER",
+    "country": "South Africa",
+    "team": "GT",
+    "price": 10.75
   },
   {
-    "name": "Jos Buttler (England)",
-    "amount": 157500000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "GT"
+    "name": "Jos Buttler",
+    "role": "BATSMAN",
+    "country": "England",
+    "team": "GT",
+    "price": 15.75
   },
   {
     "name": "Mohammad Siraj",
-    "amount": 122500000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "GT"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "GT",
+    "price": 12.25
   },
   {
     "name": "Prasidh Krishna",
-    "amount": 95000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "GT"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "GT",
+    "price": 9.5
   },
   {
     "name": "Nishant Sindhu",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "GT"
+    "team": "GT",
+    "price": 0.3
   },
   {
     "name": "Mahipal Lomror",
-    "amount": 17000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "GT"
+    "team": "GT",
+    "price": 1.7
   },
   {
     "name": "Kumar Kushagra",
-    "amount": 6500000,
+    "role": "WICKETKEEPER",
     "country": "India",
-    "role": "Wicketkeeper/Batter",
-    "team": "GT"
+    "team": "GT",
+    "price": 0.65
   },
   {
     "name": "Anuj Rawat",
-    "amount": 3000000,
+    "role": "WICKETKEEPER",
     "country": "India",
-    "role": "Wicketkeeper/Batter",
-    "team": "GT"
+    "team": "GT",
+    "price": 0.3
   },
   {
     "name": "Manav Suthar",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "GT"
+    "team": "GT",
+    "price": 0.3
   },
   {
     "name": "Washington Sundar",
-    "amount": 32000000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "GT"
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "GT",
+    "price": 3.2
   },
   {
-    "name": "Gerald Coetzee (South Africa)",
-    "amount": 24000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "GT"
+    "name": "Gerald Coetzee",
+    "role": "BOWLER",
+    "country": "South Africa",
+    "team": "GT",
+    "price": 2.4
   },
   {
     "name": "Arshad Khan",
-    "amount": 13000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "GT"
+    "team": "GT",
+    "price": 1.3
   },
   {
     "name": "Gurnoor Brar",
-    "amount": 13000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "GT"
+    "team": "GT",
+    "price": 1.3
   },
   {
-    "name": "Sherfane Rutherford (West Indies)",
-    "amount": 26000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "GT"
+    "name": "Sherfane Rutherford",
+    "role": "BATSMAN",
+    "country": "West Indies",
+    "team": "GT",
+    "price": 2.6
   },
   {
     "name": "R Sai Kishore",
-    "amount": 20000000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "GT"
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "GT",
+    "price": 2.0
   },
   {
     "name": "Ishant Sharma",
-    "amount": 7500000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "GT"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "GT",
+    "price": 0.75
   },
   {
     "name": "Jayant Yadav",
-    "amount": 7500000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "GT"
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "GT",
+    "price": 0.75
   },
   {
-    "name": "Glenn Phillips (New Zealand)",
-    "amount": 20000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "GT"
+    "name": "Glenn Phillips",
+    "role": "ALL_ROUNDER",
+    "country": "New Zealand",
+    "team": "GT",
+    "price": 2.0
   },
   {
-    "name": "Karim Janat (Afghanistan)",
-    "amount": 7500000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "GT"
+    "name": "Karim Janat",
+    "role": "ALL_ROUNDER",
+    "country": "Afghanistan",
+    "team": "GT",
+    "price": 0.75
   },
   {
     "name": "Kulwant Khejroliya",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "GT"
+    "team": "GT",
+    "price": 0.3
   },
   {
     "name": "Rinku Singh",
-    "amount": 130000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "KKR"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "KKR",
+    "price": 13.0
   },
   {
     "name": "Varun Chakaravarthy",
-    "amount": 120000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "KKR"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "KKR",
+    "price": 12.0
   },
   {
-    "name": "Sunil Narine (West Indies)",
-    "amount": 120000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "KKR"
+    "name": "Sunil Narine",
+    "role": "ALL_ROUNDER",
+    "country": "West Indies",
+    "team": "KKR",
+    "price": 12.0
   },
   {
-    "name": "Andre Russell (West Indies)",
-    "amount": 120000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "KKR"
+    "name": "Andre Russell",
+    "role": "ALL_ROUNDER",
+    "country": "West Indies",
+    "team": "KKR",
+    "price": 12.0
   },
   {
     "name": "Harshit Rana",
-    "amount": 40000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "KKR"
+    "team": "KKR",
+    "price": 4.0
   },
   {
     "name": "Ramandeep Singh",
-    "amount": 40000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "KKR"
+    "team": "KKR",
+    "price": 4.0
   },
   {
     "name": "Venkatesh Iyer",
-    "amount": 237500000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "KKR"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "KKR",
+    "price": 23.75
   },
   {
-    "name": "Quinton de Kock (South Africa)",
-    "amount": 36000000,
-    "country": "Overseas",
-    "role": "Wicketkeeper/Batter",
-    "team": "KKR"
+    "name": "Quinton de Kock",
+    "role": "WICKETKEEPER",
+    "country": "South Africa",
+    "team": "KKR",
+    "price": 3.6
   },
   {
-    "name": "Rahmanullah Gurbaz (Afghanistan)",
-    "amount": 20000000,
-    "country": "Overseas",
-    "role": "Wicketkeeper/Batter",
-    "team": "KKR"
+    "name": "Rahmanullah Gurbaz",
+    "role": "WICKETKEEPER",
+    "country": "Afghanistan",
+    "team": "KKR",
+    "price": 2.0
   },
   {
-    "name": "Anrich Nortje (South Africa)",
-    "amount": 65000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "KKR"
+    "name": "Anrich Nortje",
+    "role": "BOWLER",
+    "country": "South Africa",
+    "team": "KKR",
+    "price": 6.5
   },
   {
     "name": "Angkrish Raghuvanshi",
-    "amount": 30000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "KKR"
+    "team": "KKR",
+    "price": 3.0
   },
   {
     "name": "Vaibhav Arora",
-    "amount": 18000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "KKR"
+    "team": "KKR",
+    "price": 1.8
   },
   {
     "name": "Mayank Markande",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "KKR"
+    "team": "KKR",
+    "price": 0.3
   },
   {
-    "name": "Rovman Powell (West Indies)",
-    "amount": 15000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "KKR"
+    "name": "Rovman Powell",
+    "role": "BATSMAN",
+    "country": "West Indies",
+    "team": "KKR",
+    "price": 1.5
   },
   {
     "name": "Manish Pandey",
-    "amount": 7500000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "KKR"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "KKR",
+    "price": 0.75
   },
   {
-    "name": "Spencer Johnson (Australia)",
-    "amount": 28000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "KKR"
+    "name": "Spencer Johnson",
+    "role": "BOWLER",
+    "country": "Australia",
+    "team": "KKR",
+    "price": 2.8
   },
   {
     "name": "Luvnith Sisodia",
-    "amount": 3000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "KKR"
+    "team": "KKR",
+    "price": 0.3
   },
   {
     "name": "Ajinkya Rahane",
-    "amount": 15000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "KKR"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "KKR",
+    "price": 1.5
   },
   {
     "name": "Anukul Roy",
-    "amount": 4000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "KKR"
+    "team": "KKR",
+    "price": 0.4
   },
   {
-    "name": "Moeen Ali (England)",
-    "amount": 20000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "KKR"
+    "name": "Moeen Ali",
+    "role": "ALL_ROUNDER",
+    "country": "England",
+    "team": "KKR",
+    "price": 2.0
   },
   {
-    "name": "Chetan Sakariya",
-    "amount": 7500000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "KKR"
+    "name": "Umran Malik",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "KKR",
+    "price": 0.75
   },
   {
-    "name": "Nicholas Pooran (West Indies)",
-    "amount": 210000000,
-    "country": "Overseas",
-    "role": "Wicketkeeper/Batter",
-    "team": "LSG"
+    "name": "Nicholas Pooran",
+    "role": "WICKETKEEPER",
+    "country": "West Indies",
+    "team": "LSG",
+    "price": 21.0
   },
   {
     "name": "Ravi Bishnoi",
-    "amount": 110000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "LSG"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "LSG",
+    "price": 11.0
   },
   {
     "name": "Mayank Yadav",
-    "amount": 110000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "LSG"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "LSG",
+    "price": 11.0
+  },
+  {
+    "name": "Mohsin Khan",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "LSG",
+    "price": 4.0
   },
   {
     "name": "Ayush Badoni",
-    "amount": 40000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "LSG"
-  },
-  {
-    "name": "Shardul Thakur",
-    "amount": 20000000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 4.0
   },
   {
     "name": "Rishabh Pant",
-    "amount": 270000000,
-    "country": "Indian",
-    "role": "Wicketkeeper/Batter",
-    "team": "LSG"
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "team": "LSG",
+    "price": 27.0
   },
   {
-    "name": "David Miller (South Africa)",
-    "amount": 75000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "LSG"
+    "name": "David Miller",
+    "role": "BATSMAN",
+    "country": "South Africa",
+    "team": "LSG",
+    "price": 7.5
   },
   {
-    "name": "Mitchell Marsh (Australia)",
-    "amount": 34000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "LSG"
+    "name": "Mitchell Marsh",
+    "role": "ALL_ROUNDER",
+    "country": "Australia",
+    "team": "LSG",
+    "price": 3.4
   },
   {
-    "name": "Aiden Markram (South Africa)",
-    "amount": 20000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "LSG"
+    "name": "Aiden Markram",
+    "role": "BATSMAN",
+    "country": "South Africa",
+    "team": "LSG",
+    "price": 2.0
   },
   {
     "name": "Avesh Khan",
-    "amount": 97500000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "LSG"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "LSG",
+    "price": 9.75
   },
   {
     "name": "Abdul Samad",
-    "amount": 42000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 4.2
   },
   {
     "name": "Aryan Juyal",
-    "amount": 3000000,
+    "role": "WICKETKEEPER",
     "country": "India",
-    "role": "Wicketkeeper/Batter",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 0.3
   },
   {
     "name": "Akash Deep",
-    "amount": 80000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "LSG"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "LSG",
+    "price": 8.0
   },
   {
     "name": "Himmat Singh",
-    "amount": 3000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 0.3
   },
   {
     "name": "M Siddharth",
-    "amount": 7500000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 0.75
   },
   {
     "name": "Digvesh Singh",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 0.3
   },
   {
     "name": "Shahbaz Ahmed",
-    "amount": 24000000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "LSG"
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "LSG",
+    "price": 2.4
   },
   {
     "name": "Akash Singh",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 0.3
   },
   {
-    "name": "Shamar Joseph (West Indies)",
-    "amount": 7500000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "LSG"
+    "name": "Shamar Joseph",
+    "role": "BOWLER",
+    "country": "West Indies",
+    "team": "LSG",
+    "price": 0.75
   },
   {
     "name": "Prince Yadav",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 0.3
   },
   {
     "name": "Yuvraj Chaudhary",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 0.3
   },
   {
     "name": "Rajvardhan Hangargekar",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 0.3
   },
   {
     "name": "Arshin Kulkarni",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "LSG"
+    "team": "LSG",
+    "price": 0.3
   },
   {
     "name": "Matthew Breetzke",
-    "amount": 7500000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "LSG"
-  },
-  {
-    "name": "Jasprit Bumrah",
-    "amount": 180000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Suryakumar Yadav",
-    "amount": 163500000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "MI"
-  },
-  {
-    "name": "Hardik Pandya",
-    "amount": 163500000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "MI"
-  },
-  {
-    "name": "Rohit Sharma",
-    "amount": 163000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "MI"
-  },
-  {
-    "name": "Tilak Varma",
-    "amount": 80000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "MI"
-  },
-  {
-    "name": "Trent Boult (New Zealand)",
-    "amount": 125000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Naman Dhir",
-    "amount": 52500000,
-    "country": "India",
-    "role": "All-rounder",
-    "team": "MI"
-  },
-  {
-    "name": "Robin Minz",
-    "amount": 6500000,
-    "country": "India",
-    "role": "Wicketkeeper/Batter",
-    "team": "MI"
-  },
-  {
-    "name": "Karn Sharma",
-    "amount": 5000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Ryan Rickelton (South Africa)",
-    "amount": 10000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "MI"
-  },
-  {
-    "name": "Deepak Chahar",
-    "amount": 92500000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Mujeeb-ur-Rahman (Afghanistan)",
-    "amount": 20000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Will Jacks (England)",
-    "amount": 52500000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "MI"
-  },
-  {
-    "name": "Ashwani Kumar",
-    "amount": 3000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Mitchell Santner (New Zealand)",
-    "amount": 20000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "MI"
-  },
-  {
-    "name": "Reece Topley (England)",
-    "amount": 7500000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Shrijith Krishnan",
-    "amount": 3000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Raj Bawa",
-    "amount": 3000000,
-    "country": "India",
-    "role": "All-rounder",
-    "team": "MI"
-  },
-  {
-    "name": "Satyanarayana Raju",
-    "amount": 3000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Bevon Jacobs (New Zealad)",
-    "amount": 3000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "MI"
-  },
-  {
-    "name": "Arjun Tendulkar",
-    "amount": 3000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "MI"
-  },
-  {
-    "name": "Corbin Bosch (South Africa)",
-    "amount": 3000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "MI"
-  },
-  {
-    "name": "Vignesh Puthur",
-    "amount": 3000000,
-    "country": "India",
-    "role": "All-rounder",
-    "team": "MI"
-  },
-  {
-    "name": "Shashank Singh",
-    "amount": 55000000,
-    "country": "India",
-    "role": "Batter",
-    "team": "PBKS"
-  },
-  {
-    "name": "Prabhsimran Singh",
-    "amount": 40000000,
-    "country": "India",
-    "role": "Batter",
-    "team": "PBKS"
-  },
-  {
-    "name": "Arshdeep Singh",
-    "amount": 180000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "PBKS"
-  },
-  {
-    "name": "Shreyas Iyer",
-    "amount": 267500000,
-    "country": "Indian",
-    "role": "Wicketkeeper/Batter",
-    "team": "PBKS"
-  },
-  {
-    "name": "Yuzvendra Chahal",
-    "amount": 180000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "PBKS"
-  },
-  {
-    "name": "Marcus Stoinis (Australia)",
-    "amount": 110000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "PBKS"
-  },
-  {
-    "name": "Glenn Maxwell (Australia)",
-    "amount": 42000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "PBKS"
-  },
-  {
-    "name": "Nehal Wadhera",
-    "amount": 42000000,
-    "country": "India",
-    "role": "Batter",
-    "team": "PBKS"
-  },
-  {
-    "name": "Harpreet Brar",
-    "amount": 15000000,
-    "country": "India",
-    "role": "All-rounder",
-    "team": "PBKS"
-  },
-  {
-    "name": "Vishnu Vinod",
-    "amount": 9500000,
-    "country": "India",
-    "role": "Wicketkeeper/Batter",
-    "team": "PBKS"
-  },
-  {
-    "name": "Vijaykumar Vyshak",
-    "amount": 18000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "PBKS"
-  },
-  {
-    "name": "Yash Thakur",
-    "amount": 16000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "PBKS"
-  },
-  {
-    "name": "Marco Jansen (South Africa)",
-    "amount": 70000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "PBKS"
-  },
-  {
-    "name": "Josh Inglis (Australia)",
-    "amount": 26000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "PBKS"
-  },
-  {
-    "name": "Lockie Ferguson (New Zealand)",
-    "amount": 20000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "PBKS"
-  },
-  {
-    "name": "Azmatullah Omarzai (Afghanistan)",
-    "amount": 24000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "PBKS"
-  },
-  {
-    "name": "Harnoor Pannu",
-    "amount": 3000000,
-    "country": "India",
-    "role": "Batter",
-    "team": "PBKS"
-  },
-  {
-    "name": "Kuldeep Sen",
-    "amount": 8000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "PBKS"
-  },
-  {
-    "name": "Priyansh Arya",
-    "amount": 38000000,
-    "country": "India",
-    "role": "Batter",
-    "team": "PBKS"
-  },
-  {
-    "name": "Aaron Hardie (Australia)",
-    "amount": 12500000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "PBKS"
-  },
-  {
-    "name": "Suryash Shedge",
-    "amount": 3000000,
-    "country": "India",
-    "role": "All-rounder",
-    "team": "PBKS"
-  },
-  {
-    "name": "Musheer Khan",
-    "amount": 3000000,
-    "country": "India",
-    "role": "All-rounder",
-    "team": "PBKS"
-  },
-  {
-    "name": "Xavier Bartlett",
-    "amount": 8000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "PBKS"
-  },
-  {
-    "name": "Pyla Avinash",
-    "amount": 3000000,
-    "country": "India",
-    "role": "Batter",
-    "team": "PBKS"
-  },
-  {
-    "name": "Praveen Dubey",
-    "amount": 3000000,
-    "country": "India",
-    "role": "All-rounder",
-    "team": "PBKS"
-  },
-  {
-    "name": "Sanju Samson",
-    "amount": 180000000,
-    "country": "Indian",
-    "role": "Batter/Wicketkeeper",
-    "team": "RR"
-  },
-  {
-    "name": "Yashasvi Jaiswal",
-    "amount": 180000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "RR"
-  },
-  {
-    "name": "Riyan Parag",
-    "amount": 140000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "RR"
-  },
-  {
-    "name": "Dhruv Jurel",
-    "amount": 140000000,
-    "country": "Indian",
-    "role": "Batter/Wicketkeeper",
-    "team": "RR"
-  },
-  {
-    "name": "Shimron Hetmyer (West Indies)",
-    "amount": 110000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "RR"
-  },
-  {
-    "name": "Sandeep Sharma",
-    "amount": 40000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Jofra Archer (England)",
-    "amount": 125000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Mahesh Theekshana (Sri Lanka)",
-    "amount": 44000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Wanindu Hasaranga (Sri Lanka)",
-    "amount": 52500000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Akash Madhwal",
-    "amount": 12000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Kumar Kartikeya Singh",
-    "amount": 3000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Nitish Rana",
-    "amount": 42000000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "RR"
-  },
-  {
-    "name": "Tushar Deshpande",
-    "amount": 65000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Shubham Dubey",
-    "amount": 8000000,
-    "country": "India",
-    "role": "Batter",
-    "team": "RR"
-  },
-  {
-    "name": "Yudhvir Charak",
-    "amount": 3500000,
-    "country": "India",
-    "role": "All-rounder",
-    "team": "RR"
-  },
-  {
-    "name": "Fazalhaq Farooqi",
-    "amount": 20000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Vaibhav Suryavanshi",
-    "amount": 11000000,
-    "country": "India",
-    "role": "Batter",
-    "team": "RR"
-  },
-  {
-    "name": "Kwena Maphaka (South Africa)",
-    "amount": 7500000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Ashok Sharma",
-    "amount": 3000000,
-    "country": "India",
-    "role": "Bowler",
-    "team": "RR"
-  },
-  {
-    "name": "Kunal Singh Rathore",
-    "amount": 3000000,
-    "country": "India",
-    "role": "Batter",
-    "team": "RR"
+    "role": "BATSMAN",
+    "country": "South Africa",
+    "team": "LSG",
+    "price": 0.75
   },
   {
     "name": "Virat Kohli",
-    "amount": 210000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "RCB"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "RCB",
+    "price": 21.0
   },
   {
     "name": "Rajat Patidar",
-    "amount": 110000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "RCB"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "RCB",
+    "price": 11.0
   },
   {
     "name": "Yash Dayal",
-    "amount": 50000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "RCB"
+    "team": "RCB",
+    "price": 5.0
   },
   {
-    "name": "Liam Livingstone (England)",
-    "amount": 87500000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "RCB"
+    "name": "Liam Livingstone",
+    "role": "ALL_ROUNDER",
+    "country": "England",
+    "team": "RCB",
+    "price": 8.75
   },
   {
-    "name": "Phil Salt (England)",
-    "amount": 115000000,
-    "country": "Overseas",
-    "role": "Wicketkeeper/Batter",
-    "team": "RCB"
+    "name": "Phil Salt",
+    "role": "WICKETKEEPER",
+    "country": "England",
+    "team": "RCB",
+    "price": 11.5
   },
   {
     "name": "Jitesh Sharma",
-    "amount": 110000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "RCB"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "RCB",
+    "price": 11.0
   },
   {
-    "name": "Josh Hazlewood (Australia)",
-    "amount": 125000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "RCB"
+    "name": "Josh Hazlewood",
+    "role": "BOWLER",
+    "country": "Australia",
+    "team": "RCB",
+    "price": 12.5
   },
   {
     "name": "Rasikh Dar",
-    "amount": 60000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "RCB"
+    "team": "RCB",
+    "price": 6.0
   },
   {
     "name": "Suyash Sharma",
-    "amount": 26000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "RCB"
+    "team": "RCB",
+    "price": 2.6
   },
   {
     "name": "Krunal Pandya",
-    "amount": 57500000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "RCB"
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "RCB",
+    "price": 5.75
   },
   {
     "name": "Bhuvneshwar Kumar",
-    "amount": 107500000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "RCB"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "RCB",
+    "price": 10.75
   },
   {
     "name": "Swapnil Singh",
-    "amount": 5000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "RCB"
+    "team": "RCB",
+    "price": 0.5
   },
   {
-    "name": "Tim David (Australia)",
-    "amount": 30000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "RCB"
+    "name": "Tim David",
+    "role": "ALL_ROUNDER",
+    "country": "Australia",
+    "team": "RCB",
+    "price": 3.0
   },
   {
-    "name": "Romario Shepherd (West Indies)",
-    "amount": 15000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "RCB"
+    "name": "Romario Shepherd",
+    "role": "ALL_ROUNDER",
+    "country": "West Indies",
+    "team": "RCB",
+    "price": 1.5
   },
   {
-    "name": "Nuwan Thushara (Sri Lanka)",
-    "amount": 16000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "RCB"
+    "name": "Nuwan Thushara",
+    "role": "BOWLER",
+    "country": "Sri Lanka",
+    "team": "RCB",
+    "price": 1.6
   },
   {
     "name": "Manoj Bhandage",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "RCB"
+    "team": "RCB",
+    "price": 0.3
   },
   {
-    "name": "Jacob Bethell (England)",
-    "amount": 26000000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "RCB"
+    "name": "Jacob Bethell",
+    "role": "ALL_ROUNDER",
+    "country": "England",
+    "team": "RCB",
+    "price": 2.6
   },
   {
     "name": "Devdutt Padikkal",
-    "amount": 20000000,
-    "country": "Indian",
-    "role": "Batter",
-    "team": "RCB"
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "RCB",
+    "price": 2.0
   },
   {
     "name": "Swastik Chikara",
-    "amount": 3000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "RCB"
+    "team": "RCB",
+    "price": 0.3
   },
   {
     "name": "Mohit Rathee",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "RCB"
+    "team": "RCB",
+    "price": 0.3
   },
   {
     "name": "Abhinandan Singh",
-    "amount": 3000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "RCB"
+    "team": "RCB",
+    "price": 0.3
   },
   {
     "name": "Lungi Ngidi",
-    "amount": 10000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "RCB"
+    "role": "BOWLER",
+    "country": "South Africa",
+    "team": "RCB",
+    "price": 1.0
   },
   {
-    "name": "Heinrich Klaasen (South Africa)",
-    "amount": 230000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "SRH"
+    "name": "Sanju Samson",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "team": "RR",
+    "price": 18.0
   },
   {
-    "name": "Pat Cummins (Australia)",
-    "amount": 180000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "SRH"
+    "name": "Yashasvi Jaiswal",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "RR",
+    "price": 18.0
+  },
+  {
+    "name": "Riyan Parag",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "RR",
+    "price": 14.0
+  },
+  {
+    "name": "Dhruv Jurel",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "team": "RR",
+    "price": 14.0
+  },
+  {
+    "name": "Shimron Hetmyer",
+    "role": "BATSMAN",
+    "country": "West Indies",
+    "team": "RR",
+    "price": 11.0
+  },
+  {
+    "name": "Sandeep Sharma",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "RR",
+    "price": 4.0
+  },
+  {
+    "name": "Jofra Archer",
+    "role": "BOWLER",
+    "country": "England",
+    "team": "RR",
+    "price": 12.5
+  },
+  {
+    "name": "Mahesh Theekshana",
+    "role": "BOWLER",
+    "country": "Sri Lanka",
+    "team": "RR",
+    "price": 4.4
+  },
+  {
+    "name": "Wanindu Hasaranga",
+    "role": "BOWLER",
+    "country": "Sri Lanka",
+    "team": "RR",
+    "price": 5.25
+  },
+  {
+    "name": "Akash Madhwal",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "RR",
+    "price": 1.2
+  },
+  {
+    "name": "Kumar Kartikeya Singh",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "RR",
+    "price": 0.3
+  },
+  {
+    "name": "Nitish Rana",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "RR",
+    "price": 4.2
+  },
+  {
+    "name": "Tushar Deshpande",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "RR",
+    "price": 6.5
+  },
+  {
+    "name": "Shubham Dubey",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "RR",
+    "price": 0.8
+  },
+  {
+    "name": "Yudhvir Charak",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "RR",
+    "price": 0.35
+  },
+  {
+    "name": "Fazalhaq Farooqi",
+    "role": "BOWLER",
+    "country": "Sri Lanka",
+    "team": "RR",
+    "price": 2.0
+  },
+  {
+    "name": "Vaibhav Suryavanshi",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "RR",
+    "price": 1.1
+  },
+  {
+    "name": "Kwena Maphaka",
+    "role": "BOWLER",
+    "country": "South Africa",
+    "team": "RR",
+    "price": 0.75
+  },
+  {
+    "name": "Ashok Sharma",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "RR",
+    "price": 0.3
+  },
+  {
+    "name": "Kunal Singh Rathore",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "RR",
+    "price": 0.3
+  },
+  {
+    "name": "Heinrich Klaasen",
+    "role": "BATSMAN",
+    "country": "South Africa",
+    "team": "SRH",
+    "price": 23.0
+  },
+  {
+    "name": "Pat Cummins",
+    "role": "BOWLER",
+    "country": "Australia",
+    "team": "SRH",
+    "price": 18.0
   },
   {
     "name": "Abhishek Sharma",
-    "amount": 140000000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "SRH"
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "SRH",
+    "price": 14.0
   },
   {
-    "name": "Travis Head (Australia)",
-    "amount": 140000000,
-    "country": "Overseas",
-    "role": "Batter",
-    "team": "SRH"
+    "name": "Travis Head",
+    "role": "BATSMAN",
+    "country": "Australia",
+    "team": "SRH",
+    "price": 14.0
   },
   {
     "name": "Nitish Kumar Reddy",
-    "amount": 60000000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "SRH"
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "SRH",
+    "price": 6.0
   },
   {
     "name": "Mohammad Shami",
-    "amount": 100000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "SRH"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "SRH",
+    "price": 10.0
   },
   {
     "name": "Harshal Patel",
-    "amount": 80000000,
-    "country": "Indian",
-    "role": "All-rounder",
-    "team": "SRH"
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "SRH",
+    "price": 8.0
   },
   {
     "name": "Ishan Kishan",
-    "amount": 112500000,
-    "country": "Indian",
-    "role": "Wicketkeeper/Batter",
-    "team": "SRH"
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "team": "SRH",
+    "price": 11.25
   },
   {
     "name": "Rahul Chahar",
-    "amount": 32000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "SRH"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "SRH",
+    "price": 3.2
   },
   {
-    "name": "Adam Zampa (Australia)",
-    "amount": 24000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "SRH"
+    "name": "Adam Zampa",
+    "role": "BOWLER",
+    "country": "Australia",
+    "team": "SRH",
+    "price": 2.4
   },
   {
     "name": "Atharva Taide",
-    "amount": 3000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "SRH"
+    "team": "SRH",
+    "price": 0.3
   },
   {
     "name": "Abhinav Manohar",
-    "amount": 32000000,
+    "role": "ALL_ROUNDER",
     "country": "India",
-    "role": "All-rounder",
-    "team": "SRH"
+    "team": "SRH",
+    "price": 3.2
   },
   {
     "name": "Simarjeet Singh",
-    "amount": 15000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "SRH"
+    "team": "SRH",
+    "price": 1.5
   },
   {
     "name": "Zeeshan Ansari",
-    "amount": 4000000,
+    "role": "BOWLER",
     "country": "India",
-    "role": "Bowler",
-    "team": "SRH"
+    "team": "SRH",
+    "price": 0.4
   },
   {
     "name": "Jaydev Unadkat",
-    "amount": 10000000,
-    "country": "Indian",
-    "role": "Bowler",
-    "team": "SRH"
+    "role": "BOWLER",
+    "country": "India",
+    "team": "SRH",
+    "price": 1.0
   },
   {
-    "name": "Wiaan Mulder (South Africa)",
-    "amount": 7500000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "SRH"
+    "name": "Brydon Carse",
+    "role": "ALL_ROUNDER",
+    "country": "England",
+    "team": "SRH",
+    "price": 1.0
   },
   {
-    "name": "Kamindu Mendis (Sri Lanka)",
-    "amount": 7500000,
-    "country": "Overseas",
-    "role": "All-rounder",
-    "team": "SRH"
+    "name": "Kamindu Mendis",
+    "role": "ALL_ROUNDER",
+    "country": "Sri Lanka",
+    "team": "SRH",
+    "price": 0.75
   },
   {
     "name": "Aniket Verma",
-    "amount": 3000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "SRH"
+    "team": "SRH",
+    "price": 0.3
   },
   {
-    "name": "Eshan Malinga (Sri Lanka)",
-    "amount": 12000000,
-    "country": "Overseas",
-    "role": "Bowler",
-    "team": "SRH"
+    "name": "Eshan Malinga",
+    "role": "BOWLER",
+    "country": "Sri Lanka",
+    "team": "SRH",
+    "price": 1.2
   },
   {
     "name": "Sachin Baby",
-    "amount": 3000000,
+    "role": "BATSMAN",
     "country": "India",
-    "role": "Batter",
-    "team": "SRH"
+    "team": "SRH",
+    "price": 0.3
+  },
+  {
+    "name": "Shashank Singh",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "PSKB",
+    "price": 5.5
+  },
+  {
+    "name": "Prabhsimran Singh",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "PSKB",
+    "price": 4.0
+  },
+  {
+    "name": "Arshdeep Singh",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 18.0
+  },
+  {
+    "name": "Shreyas Iyer",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 26.75
+  },
+  {
+    "name": "Yuzvendra Chahal",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 18.0
+  },
+  {
+    "name": "Marcus Stoinis",
+    "role": "ALL_ROUNDER",
+    "country": "Australia",
+    "team": "PSKB",
+    "price": 11.0
+  },
+  {
+    "name": "Glenn Maxwell",
+    "role": "ALL_ROUNDER",
+    "country": "Australia",
+    "team": "PSKB",
+    "price": 4.2
+  },
+  {
+    "name": "Nehal Wadhera",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "PSKB",
+    "price": 4.2
+  },
+  {
+    "name": "Harpreet Brar",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 1.5
+  },
+  {
+    "name": "Vishnu Vinod",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 0.95
+  },
+  {
+    "name": "Vijaykumar Vyshak",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 1.8
+  },
+  {
+    "name": "Yash Thakur",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 1.6
+  },
+  {
+    "name": "Marco Jansen",
+    "role": "ALL_ROUNDER",
+    "country": "South Africa",
+    "team": "PSKB",
+    "price": 7.0
+  },
+  {
+    "name": "Josh Inglis",
+    "role": "BATSMAN",
+    "country": "Australia",
+    "team": "PSKB",
+    "price": 2.6
+  },
+  {
+    "name": "Lockie Ferguson",
+    "role": "BOWLER",
+    "country": "New Zealand",
+    "team": "PSKB",
+    "price": 2.0
+  },
+  {
+    "name": "Azmatullah Omarzai",
+    "role": "ALL_ROUNDER",
+    "country": "Afghanistan",
+    "team": "PSKB",
+    "price": 2.4
+  },
+  {
+    "name": "Harnoor Pannu",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "PSKB",
+    "price": 0.3
+  },
+  {
+    "name": "Kuldeep Sen",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 0.8
+  },
+  {
+    "name": "Priyansh Arya",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "PSKB",
+    "price": 3.8
+  },
+  {
+    "name": "Aaron Hardie",
+    "role": "ALL_ROUNDER",
+    "country": "Australia",
+    "team": "PSKB",
+    "price": 1.25
+  },
+  {
+    "name": "Suryash Shedge",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 0.3
+  },
+  {
+    "name": "Musheer Khan",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 0.3
+  },
+  {
+    "name": "Xavier Bartlett",
+    "role": "BOWLER",
+    "country": "Australia",
+    "team": "PSKB",
+    "price": 0.8
+  },
+  {
+    "name": "Pyla Avinash",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "PSKB",
+    "price": 0.3
+  },
+  {
+    "name": "Praveen Dubey",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "PSKB",
+    "price": 0.3
+  },
+  {
+    "name": "Jasprit Bumrah",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "MI",
+    "price": 18.0
+  },
+  {
+    "name": "Suryakumar Yadav",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "MI",
+    "price": 16.35
+  },
+  {
+    "name": "Hardik Pandya",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "MI",
+    "price": 16.35
+  },
+  {
+    "name": "Rohit Sharma",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "MI",
+    "price": 16.3
+  },
+  {
+    "name": "Tilak Varma",
+    "role": "BATSMAN",
+    "country": "India",
+    "team": "MI",
+    "price": 8.0
+  },
+  {
+    "name": "Trent Boult",
+    "role": "BOWLER",
+    "country": "New Zealand",
+    "team": "MI",
+    "price": 12.5
+  },
+  {
+    "name": "Naman Dhir",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "MI",
+    "price": 5.25
+  },
+  {
+    "name": "Robin Minz",
+    "role": "WICKETKEEPER",
+    "country": "India",
+    "team": "MI",
+    "price": 0.65
+  },
+  {
+    "name": "Karn Sharma",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "MI",
+    "price": 0.5
+  },
+  {
+    "name": "Ryan Rickelton",
+    "role": "BATSMAN",
+    "country": "South Africa",
+    "team": "MI",
+    "price": 1.0
+  },
+  {
+    "name": "Deepak Chahar",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "MI",
+    "price": 9.25
+  },
+  {
+    "name": "Allah Ghazanfar",
+    "role": "BOWLER",
+    "country": "Afghanistan",
+    "team": "MI",
+    "price": 4.8
+  },
+  {
+    "name": "Will Jacks",
+    "role": "ALL_ROUNDER",
+    "country": "England",
+    "team": "MI",
+    "price": 5.25
+  },
+  {
+    "name": "Ashwani Kumar",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "MI",
+    "price": 0.3
+  },
+  {
+    "name": "Mitchell Santner",
+    "role": "ALL_ROUNDER",
+    "country": "New Zealand",
+    "team": "MI",
+    "price": 2.0
+  },
+  {
+    "name": "Reece Topley",
+    "role": "BOWLER",
+    "country": "England",
+    "team": "MI",
+    "price": 0.75
+  },
+  {
+    "name": "Shrijith Krishnan",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "MI",
+    "price": 0.3
+  },
+  {
+    "name": "Raj Bawa",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "MI",
+    "price": 0.3
+  },
+  {
+    "name": "Satyanarayana Raju",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "MI",
+    "price": 0.3
+  },
+  {
+    "name": "Bevon Jacobs",
+    "role": "BATSMAN",
+    "country": "New Zealand",
+    "team": "MI",
+    "price": 0.3
+  },
+  {
+    "name": "Arjun Tendulkar",
+    "role": "BOWLER",
+    "country": "India",
+    "team": "MI",
+    "price": 0.3
+  },
+  {
+    "name": "Lizaad Williams",
+    "role": "BOWLER",
+    "country": "South Africa",
+    "team": "MI",
+    "price": 0.75
+  },
+  {
+    "name": "Vignesh Puthur",
+    "role": "ALL_ROUNDER",
+    "country": "India",
+    "team": "MI",
+    "price": 0.3
   }
 ]
