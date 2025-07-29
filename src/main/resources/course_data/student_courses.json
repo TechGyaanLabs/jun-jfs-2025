@@ -1,0 +1,162 @@
+[
+  {
+    "studentId": "STU001",
+    "courseId": "CRS001"
+  },
+  {
+    "studentId": "STU001",
+    "courseId": "CRS003"
+  },
+  {
+    "studentId": "STU002",
+    "courseId": "CRS002"
+  },
+  {
+    "studentId": "STU002",
+    "courseId": "CRS007"
+  },
+  {
+    "studentId": "STU003",
+    "courseId": "CRS004"
+  },
+  {
+    "studentId": "STU003",
+    "courseId": "CRS005"
+  },
+  {
+    "studentId": "STU004",
+    "courseId": "CRS006"
+  },
+  {
+    "studentId": "STU004",
+    "courseId": "CRS008"
+  },
+  {
+    "studentId": "STU005",
+    "courseId": "CRS009"
+  },
+  {
+    "studentId": "STU005",
+    "courseId": "CRS010"
+  },
+  {
+    "studentId": "STU006",
+    "courseId": "CRS011"
+  },
+  {
+    "studentId": "STU006",
+    "courseId": "CRS012"
+  },
+  {
+    "studentId": "STU007",
+    "courseId": "CRS013"
+  },
+  {
+    "studentId": "STU007",
+    "courseId": "CRS014"
+  },
+  {
+    "studentId": "STU008",
+    "courseId": "CRS015"
+  },
+  {
+    "studentId": "STU008",
+    "courseId": "CRS016"
+  },
+  {
+    "studentId": "STU009",
+    "courseId": "CRS017"
+  },
+  {
+    "studentId": "STU009",
+    "courseId": "CRS018"
+  },
+  {
+    "studentId": "STU010",
+    "courseId": "CRS019"
+  },
+  {
+    "studentId": "STU010",
+    "courseId": "CRS020"
+  },
+  {
+    "studentId": "STU011",
+    "courseId": "CRS001"
+  },
+  {
+    "studentId": "STU011",
+    "courseId": "CRS002"
+  },
+  {
+    "studentId": "STU012",
+    "courseId": "CRS003"
+  },
+  {
+    "studentId": "STU012",
+    "courseId": "CRS004"
+  },
+  {
+    "studentId": "STU013",
+    "courseId": "CRS005"
+  },
+  {
+    "studentId": "STU013",
+    "courseId": "CRS006"
+  },
+  {
+    "studentId": "STU014",
+    "courseId": "CRS007"
+  },
+  {
+    "studentId": "STU014",
+    "courseId": "CRS008"
+  },
+  {
+    "studentId": "STU015",
+    "courseId": "CRS009"
+  },
+  {
+    "studentId": "STU015",
+    "courseId": "CRS010"
+  },
+  {
+    "studentId": "STU016",
+    "courseId": "CRS011"
+  },
+  {
+    "studentId": "STU016",
+    "courseId": "CRS012"
+  },
+  {
+    "studentId": "STU017",
+    "courseId": "CRS013"
+  },
+  {
+    "studentId": "STU017",
+    "courseId": "CRS014"
+  },
+  {
+    "studentId": "STU018",
+    "courseId": "CRS015"
+  },
+  {
+    "studentId": "STU018",
+    "courseId": "CRS016"
+  },
+  {
+    "studentId": "STU019",
+    "courseId": "CRS017"
+  },
+  {
+    "studentId": "STU019",
+    "courseId": "CRS018"
+  },
+  {
+    "studentId": "STU020",
+    "courseId": "CRS019"
+  },
+  {
+    "studentId": "STU020",
+    "courseId": "CRS020"
+  }
+] 

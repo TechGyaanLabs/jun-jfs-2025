@@ -1,0 +1,2 @@
+Show Report:
+    name, course_title, category, fee

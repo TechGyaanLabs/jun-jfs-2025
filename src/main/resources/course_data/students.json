@@ -1,0 +1,122 @@
+[
+  {
+    "id": "STU001",
+    "name": "John Smith",
+    "email": "john.smith@email.com",
+    "mobile": "+1-555-0101"
+  },
+  {
+    "id": "STU002",
+    "name": "Emily Johnson",
+    "email": "emily.johnson@email.com",
+    "mobile": "+1-555-0102"
+  },
+  {
+    "id": "STU003",
+    "name": "Michael Brown",
+    "email": "michael.brown@email.com",
+    "mobile": "+1-555-0103"
+  },
+  {
+    "id": "STU004",
+    "name": "Sarah Davis",
+    "email": "sarah.davis@email.com",
+    "mobile": "+1-555-0104"
+  },
+  {
+    "id": "STU005",
+    "name": "David Wilson",
+    "email": "david.wilson@email.com",
+    "mobile": "+1-555-0105"
+  },
+  {
+    "id": "STU006",
+    "name": "Lisa Anderson",
+    "email": "lisa.anderson@email.com",
+    "mobile": "+1-555-0106"
+  },
+  {
+    "id": "STU007",
+    "name": "Robert Taylor",
+    "email": "robert.taylor@email.com",
+    "mobile": "+1-555-0107"
+  },
+  {
+    "id": "STU008",
+    "name": "Jennifer Martinez",
+    "email": "jennifer.martinez@email.com",
+    "mobile": "+1-555-0108"
+  },
+  {
+    "id": "STU009",
+    "name": "Christopher Garcia",
+    "email": "christopher.garcia@email.com",
+    "mobile": "+1-555-0109"
+  },
+  {
+    "id": "STU010",
+    "name": "Amanda Rodriguez",
+    "email": "amanda.rodriguez@email.com",
+    "mobile": "+1-555-0110"
+  },
+  {
+    "id": "STU011",
+    "name": "James Lopez",
+    "email": "james.lopez@email.com",
+    "mobile": "+1-555-0111"
+  },
+  {
+    "id": "STU012",
+    "name": "Michelle Gonzalez",
+    "email": "michelle.gonzalez@email.com",
+    "mobile": "+1-555-0112"
+  },
+  {
+    "id": "STU013",
+    "name": "Daniel Perez",
+    "email": "daniel.perez@email.com",
+    "mobile": "+1-555-0113"
+  },
+  {
+    "id": "STU014",
+    "name": "Jessica Torres",
+    "email": "jessica.torres@email.com",
+    "mobile": "+1-555-0114"
+  },
+  {
+    "id": "STU015",
+    "name": "Matthew Flores",
+    "email": "matthew.flores@email.com",
+    "mobile": "+1-555-0115"
+  },
+  {
+    "id": "STU016",
+    "name": "Nicole Rivera",
+    "email": "nicole.rivera@email.com",
+    "mobile": "+1-555-0116"
+  },
+  {
+    "id": "STU017",
+    "name": "Andrew Collins",
+    "email": "andrew.collins@email.com",
+    "mobile": "+1-555-0117"
+  },
+  {
+    "id": "STU018",
+    "name": "Stephanie Stewart",
+    "email": "stephanie.stewart@email.com",
+    "mobile": "+1-555-0118"
+  },
+  {
+    "id": "STU019",
+    "name": "Kevin Morris",
+    "email": "kevin.morris@email.com",
+    "mobile": "+1-555-0119"
+  },
+  {
+    "id": "STU020",
+    "name": "Rachel Rogers",
+    "email": "rachel.rogers@email.com",
+    "mobile": "+1-555-0120"
+  }
+] 
