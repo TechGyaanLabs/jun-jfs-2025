@@ -1,0 +1,12 @@
+[
+  {
+    "empno": 1001,
+    "name": "John",
+    "salary": 50000
+  },
+  {
+    "empno": 1002,
+    "name": "Jane",
+    "salary": 60000
+  }
+]
