@@ -22,6 +22,9 @@ public class IplStatsManager {
             System.out.println("-".repeat(150));
             System.out.println("1. View Team names");
             System.out.println("2. View Team stats");
+            System.out.println("3. IplStatsDto");
+            System.out.println("4. top5PaidPlayers");
+            System.out.println("5. exit");
             System.out.print("Enter your choice: ");
             int choice = new Scanner(System.in).nextInt();
             ObjectMapper mapper = new ObjectMapper();

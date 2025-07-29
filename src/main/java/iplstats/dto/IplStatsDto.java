@@ -12,4 +12,5 @@ public class IplStatsDto {
     private long playerCount;
     private Map<String, Long> countryCount; // return only top 3 rows
     private Map<String, Long> roleCount;  // return only top 3 rows
+
 }
