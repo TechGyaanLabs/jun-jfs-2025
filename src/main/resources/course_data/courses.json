@@ -4,139 +4,160 @@
     "name": "python_basics",
     "title": "Python Programming Fundamentals",
     "description": "Learn the basics of Python programming language from scratch",
-    "fee": 50
+    "fee": 50,
+    "category": "CAT001"
   },
   {
     "id": "CRS002",
     "name": "java_core",
     "title": "Core Java Programming",
     "description": "Master Java fundamentals and object-oriented programming concepts",
-    "fee": 60
+    "fee": 60,
+    "category": "CAT002"
   },
   {
     "id": "CRS003",
     "name": "web_dev_html_css",
     "title": "Web Development with HTML & CSS",
     "description": "Build responsive websites using HTML5 and CSS3",
-    "fee": 60
+    "fee": 60,
+    "category": "CAT002"
   },
   {
     "id": "CRS004",
     "name": "javascript_essentials",
     "title": "JavaScript Essentials",
     "description": "Learn JavaScript programming for web development",
-    "fee": 50
+    "fee": 50,
+    "category": "CAT002"
   },
   {
     "id": "CRS005",
     "name": "react_framework",
     "title": "React.js Framework",
     "description": "Build modern web applications with React.js",
-    "fee": 80
+    "fee": 80,
+    "category": "CAT002"
   },
   {
     "id": "CRS006",
     "name": "nodejs_backend",
     "title": "Node.js Backend Development",
     "description": "Create server-side applications using Node.js",
-    "fee": 80
+    "fee": 80,
+    "category": "CAT003"
   },
   {
     "id": "CRS007",
     "name": "machine_learning",
     "title": "Machine Learning Fundamentals",
     "description": "Introduction to machine learning algorithms and applications",
-    "fee": 80
+    "fee": 80,
+    "category": "CAT003"
   },
   {
     "id": "CRS008",
     "name": "data_analysis_python",
     "title": "Data Analysis with Python",
     "description": "Analyze data using Python libraries like Pandas and NumPy",
-    "fee": 60
+    "fee": 60,
+    "category": "CAT003"
   },
   {
     "id": "CRS009",
     "name": "android_development",
     "title": "Android App Development",
     "description": "Create Android applications using Java and Android Studio",
-    "fee": 80
+    "fee": 80,
+    "category": "CAT003"
   },
   {
     "id": "CRS010",
     "name": "ios_development",
     "title": "iOS App Development",
     "description": "Develop iOS applications using Swift and Xcode",
-    "fee": 80
+    "fee": 80,
+    "category": "CAT003"
+
   },
   {
     "id": "CRS011",
     "name": "aws_cloud",
     "title": "AWS Cloud Computing",
     "description": "Learn Amazon Web Services cloud platform and services",
-    "fee": 80
+    "fee": 80,
+    "category": "CAT003"
   },
   {
     "id": "CRS012",
     "name": "cyber_security",
     "title": "Cybersecurity Fundamentals",
     "description": "Understand cybersecurity principles and best practices",
-    "fee": 60
+    "fee": 60,
+    "category": "CAT003"
   },
   {
     "id": "CRS013",
     "name": "devops_practices",
     "title": "DevOps Best Practices",
     "description": "Learn DevOps methodologies and tools",
-    "fee": 60
+    "fee": 60,
+    "category": "CAT003"
   },
   {
     "id": "CRS014",
     "name": "sql_database",
     "title": "SQL Database Management",
     "description": "Master SQL and database design principles",
-    "fee": 50
+    "fee": 50,
+    "category": "CAT003"
   },
   {
     "id": "CRS015",
     "name": "network_fundamentals",
     "title": "Computer Networking Fundamentals",
     "description": "Learn computer networks and protocols",
-    "fee": 60
+    "fee": 60,
+    "category": "CAT003"
   },
   {
     "id": "CRS016",
     "name": "linux_administration",
     "title": "Linux System Administration",
     "description": "Master Linux operating system administration",
-    "fee": 50
+    "fee": 50,
+    "category": "CAT003"
   },
   {
     "id": "CRS017",
     "name": "software_testing",
     "title": "Software Testing and QA",
     "description": "Learn software testing methodologies and tools",
-    "fee": 60
+    "fee": 60,
+    "category": "CAT003"
   },
   {
     "id": "CRS018",
     "name": "ui_ux_design",
     "title": "UI/UX Design Principles",
     "description": "Design user interfaces and user experiences",
-    "fee": 60
+    "fee": 60,
+    "category": "CAT003"
   },
   {
     "id": "CRS019",
     "name": "game_development",
     "title": "Game Development with Unity",
     "description": "Create games using Unity game engine",
-    "fee": 80
+    "fee": 80,
+    "category": "CAT003"
   },
   {
     "id": "CRS020",
     "name": "blockchain_basics",
     "title": "Blockchain Technology Basics",
     "description": "Understand blockchain and cryptocurrency fundamentals",
-    "fee": 80
+    "fee": 80,
+    "category": "CAT003"
   }
 ] 
