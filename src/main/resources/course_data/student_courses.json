@@ -1,11 +1,11 @@
 [
   {
     "studentId": "STU001",
-    "courseId": "CRS001"
+    "courseId": "CRS003"
   },
   {
     "studentId": "STU001",
-    "courseId": "CRS003"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU002",
@@ -13,23 +13,23 @@
   },
   {
     "studentId": "STU002",
-    "courseId": "CRS007"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU003",
-    "courseId": "CRS004"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU003",
-    "courseId": "CRS005"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU004",
-    "courseId": "CRS006"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU004",
-    "courseId": "CRS008"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU005",
@@ -37,7 +37,7 @@
   },
   {
     "studentId": "STU005",
-    "courseId": "CRS010"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU006",
@@ -49,19 +49,19 @@
   },
   {
     "studentId": "STU007",
-    "courseId": "CRS013"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU007",
-    "courseId": "CRS014"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU008",
-    "courseId": "CRS015"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU008",
-    "courseId": "CRS016"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU009",
@@ -81,7 +81,7 @@
   },
   {
     "studentId": "STU011",
-    "courseId": "CRS001"
+    "courseId": "CRS003"
   },
   {
     "studentId": "STU011",
@@ -113,11 +113,11 @@
   },
   {
     "studentId": "STU015",
-    "courseId": "CRS009"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU015",
-    "courseId": "CRS010"
+    "courseId": "CRS002"
   },
   {
     "studentId": "STU016",
@@ -157,6 +157,6 @@
   },
   {
     "studentId": "STU020",
-    "courseId": "CRS020"
+    "courseId": "CRS002"
   }
 ] 
