@@ -17,6 +17,7 @@
         <jackson-databind.version>2.19.1</jackson-databind.version>
         <lombok.version>1.18.32</lombok.version>
         <commons-text.version>1.13.1</commons-text.version>
+        <snakeyaml.version>2.2</snakeyaml.version>
     </properties>
 
     <dependencyManagement>
@@ -47,7 +48,11 @@
                 <artifactId>jackson-datatype-jsr310</artifactId>
                 <version>${jackson-databind.version}</version>
             </dependency>
-
+            <dependency>
+                <groupId>org.yaml</groupId>
+                <artifactId>snakeyaml</artifactId>
+                <version>${snakeyaml.version}</version>
+            </dependency>
         </dependencies>
     </dependencyManagement>
 
@@ -76,7 +81,6 @@
         <dependency>
             <groupId>org.yaml</groupId>
             <artifactId>snakeyaml</artifactId>
-            <version>2.2</version> <!-- Use latest stable version -->
         </dependency>
     </dependencies>
 

@@ -11,7 +11,7 @@ import java.util.List;
 @ToString
 public class Tenant {
     private String name;
-    private List<List<String>> email;
+    private List<String> emails;
     private String ip;
-    private List<State> locations;
+    private List<State> states;
 }
