@@ -4,12 +4,11 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
-import java.util.List;
-
 @Getter
 @Setter
 @ToString
-public class State {
-    private String name;
-    private List<String> cities;
+public class DatabaseProperties {
+    private String url;
+    private String username;
+    private String password;
 }

@@ -28,3 +28,13 @@ db:
   url: jdbc:mysql://localhost:3306/kfc
   username: root
   password: root
+
+user:
+  name: admin
+  password: admin@123
+
+mail:
+    host: smtp.gmail.com
+    port: 587
+    username: admin@kfc.com
+    password: admin@123
