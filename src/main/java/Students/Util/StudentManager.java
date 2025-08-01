@@ -36,9 +36,12 @@ public class StudentManager {
                     System.out.print("Enter course title: ");
                     String inputTitle = scanner.nextLine().trim();
 
-                    List<Course> matchedCourses = courseList.stream()
-                            .filter(c -> c.getTitle().equalsIgnoreCase(inputTitle))
-                            .collect(Collectors.toList());
+                    List<Course> matchedCourses = new ArrayList<>();
+                    for (Course c1 : courseList) {
+                        if (c1.getTitle().equalsIgnoreCase(inputTitle)) {
+                            matchedCourses.add(c1);
+                        }
+                    }
 
                     if (matchedCourses.isEmpty()) {
                         System.out.println("No course found with title: " + inputTitle);
@@ -47,11 +50,13 @@ public class StudentManager {
 
                     List<String> matchingCourseIds = matchedCourses.stream()
                             .map(Course::getId)
-                            .collect(Collectors.toList());
+                            .toList();
 
                     List<StudentCourse> matchedStudentCourses = studentCourseList.stream()
-                            .filter(sc -> matchingCourseIds.contains(sc.getCourseId()))
-                            .collect(Collectors.toList());
+                            .filter(sc -> {
+                                return matchingCourseIds.contains(sc.getCourseId());
+                            })
+                            .toList();
 
                     if (matchedStudentCourses.isEmpty()) {
                         System.out.println("No students enrolled in course: " + inputTitle);
