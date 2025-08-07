@@ -1,4 +1,5 @@
-[
+{
+  "player": [
     {
       "name": "Ruturaj Gaikwad",
       "role": "BATSMAN",
@@ -1596,3 +1597,4 @@
       "price": 0.3
     }
   ]
+}

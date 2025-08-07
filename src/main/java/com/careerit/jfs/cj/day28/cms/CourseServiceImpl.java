@@ -3,6 +3,7 @@ package com.careerit.jfs.cj.day28.cms;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.stream.Collectors;
 
 public class CourseServiceImpl implements CourseService {
 
@@ -39,6 +40,9 @@ public class CourseServiceImpl implements CourseService {
 
     @Override
     public Map<String, List<Course>> getCourseMapByCategory() {
-        return Map.of();
+       return courses.stream()
+                      .collect(Collectors.groupingBy(Course::getCategory));
     }
+
+
 }
