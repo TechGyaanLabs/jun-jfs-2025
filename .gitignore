@@ -39,3 +39,14 @@ build/
 
 .idea
 ./.idea/*
+/src/main/java/com/careerit/jfs/cj/jdbc/ConnectionUtil.java
+/src/main/java/com/careerit/jfs/cj/jdbc/assignment/Contact.java
+/src/main/java/com/careerit/jfs/cj/jdbc/assignment/ContactDao.java
+/src/main/java/com/careerit/jfs/cj/jdbc/assignment/ContactDaoImpl.java
+/src/main/java/com/careerit/jfs/cj/jdbc/assignment/ContactManager.java
+/src/main/java/com/careerit/jfs/cj/jdbc/assignment/ContactQueries.java
+/src/main/java/com/careerit/jfs/cj/jdbc/assignment/ContactService.java
+/src/main/java/com/careerit/jfs/cj/jdbc/assignment/ContactServiceImpl.java
+/src/main/java/com/careerit/jfs/cj/jdbc/DbManager.java
+/src/main/java/com/careerit/jfs/cj/jdbc/DbQueries.java
+/EmployeeDAO.java
