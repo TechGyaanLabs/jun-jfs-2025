@@ -12,12 +12,17 @@
         <maven.compiler.source>23</maven.compiler.source>
         <maven.compiler.target>23</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        
+        <!-- Dependency Versions -->
         <commons-text.version>1.13.1</commons-text.version>
         <commons-lang3.version>3.18.0</commons-lang3.version>
         <jackson-databind.version>2.19.1</jackson-databind.version>
         <lombok.version>1.18.32</lombok.version>
-        <commons-text.version>1.13.1</commons-text.version>
         <snakeyaml.version>2.2</snakeyaml.version>
+        <fop.version>2.10</fop.version>
+        <jackson-dataformat-xml.version>2.19.1</jackson-dataformat-xml.version>
+        <poi.version>5.2.5</poi.version>
+        <postgresql.version>42.7.7</postgresql.version>
     </properties>
 
     <dependencyManagement>
@@ -56,22 +61,27 @@
             <dependency>
                 <groupId>org.apache.xmlgraphics</groupId>
                 <artifactId>fop</artifactId>
-                <version>2.10</version>
+                <version>${fop.version}</version>
             </dependency>
             <dependency>
                 <groupId>com.fasterxml.jackson.dataformat</groupId>
                 <artifactId>jackson-dataformat-xml</artifactId>
-                <version>2.19.1</version>
+                <version>${jackson-dataformat-xml.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.poi</groupId>
                 <artifactId>poi</artifactId>
-                <version>5.2.5</version>
+                <version>${poi.version}</version>
             </dependency>
             <dependency>
                 <groupId>org.apache.poi</groupId>
                 <artifactId>poi-ooxml</artifactId>
-                <version>5.2.5</version>
+                <version>${poi.version}</version>
+            </dependency>
+            <dependency>
+                <groupId>org.postgresql</groupId>
+                <artifactId>postgresql</artifactId>
+                <version>${postgresql.version}</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
@@ -118,7 +128,10 @@
             <groupId>org.apache.poi</groupId>
             <artifactId>poi-ooxml</artifactId>
         </dependency>
-
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+        </dependency>
     </dependencies>
 
 </project>
