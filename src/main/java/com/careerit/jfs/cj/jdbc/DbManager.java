@@ -6,8 +6,8 @@ import static com.careerit.jfs.cj.jdbc.DbQueries.*;
 public class DbManager {
 
     public static void main(String[] args) {
-        //createTable();
-        // addEmployees();
+        createTable();
+        addEmployees();
         showAllEmployees();
     }
 

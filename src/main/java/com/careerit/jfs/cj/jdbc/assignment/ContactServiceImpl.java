@@ -5,7 +5,7 @@ import java.util.Optional;
 
 public class ContactServiceImpl implements ContactService {
 
-    private ContactDao contactDao;
+    private final ContactDao contactDao;
 
     public ContactServiceImpl(ContactDao contactDao) {
         this.contactDao = contactDao;
@@ -13,38 +13,37 @@ public class ContactServiceImpl implements ContactService {
 
     @Override
     public Contact createContact(Contact contact) {
-        // Validation logic
         Optional<Contact> contactOptional = contactDao.findByMobile(contact.getMobile());
         if (contactOptional.isPresent()) {
-            throw new RuntimeException("Contact already exists");
+            throw new RuntimeException("Contact already exists with mobile: " + contact.getMobile());
         }
         Contact savedContact = contactDao.create(contact);
-        System.out.println("Contact is created successfully with id: " + savedContact.getId());
+        System.out.println("Contact created successfully with id: " + savedContact.getId());
         return savedContact;
     }
 
     @Override
     public Optional<Contact> getContactById(Long id) {
-        return Optional.empty();
+        return contactDao.findById(id);
     }
 
     @Override
     public List<Contact> getAllContacts() {
-        return List.of();
+        return contactDao.findAll();
     }
 
     @Override
     public Contact updateContact(Contact contact) {
-        return null;
+        return contactDao.update(contact);
     }
 
     @Override
     public boolean deleteContact(Long id) {
-        return false;
+        return contactDao.delete(id);
     }
 
     @Override
     public List<Contact> searchContactsByName(String name) {
-        return List.of();
+        return contactDao.searchByName(name);
     }
 }
