@@ -63,7 +63,7 @@ public class DataLoaderUtil {
         }
     }
     
-    private static List<PlayerDto> readPlayersFromJson() throws IOException {
+    public static List<PlayerDto> readPlayersFromJson() throws IOException {
         ObjectMapper mapper = new ObjectMapper();
         try (InputStream inputStream = DataLoaderUtil.class.getClassLoader()
                 .getResourceAsStream("players.json")) {
@@ -76,7 +76,7 @@ public class DataLoaderUtil {
         }
     }
     
-    private static void clearTable() {
+    public static void clearTable() {
         try (Connection conn = DatabaseUtil.getConnection();
              Statement stmt = conn.createStatement()) {
             
