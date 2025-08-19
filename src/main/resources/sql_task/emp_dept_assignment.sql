@@ -257,3 +257,26 @@ SUBQUERIES (Questions 86-100)
 99. Get employees who have a higher salary than at least 3 other employees.
 
 100. Find employees who work in departments where the total salary is greater than 10000.
+
+WITH CTE (Questions 101-110)
+-----------------------------
+
+101. List employees who have a higher salary than their manager.
+
+102. Find employees who work in departments with more than 3 employees.
+
+103. List employees who earn more than their department's average salary.
+
+104. Get employees who have the same job as someone in department 20.
+
+105. Find employees who work in the same department as the highest paid employee.
+
+106. List employees who work in departments with no clerks.
+
+107. Get employees who earn more than the average salary of their job category.
+
+108. Find employees who work in the same location as employees in department 10.
+
+109. List employees who have a higher salary than at least 3 other employees.
+
+110. Find employees who work in departments where the total salary is greater than 10000.
