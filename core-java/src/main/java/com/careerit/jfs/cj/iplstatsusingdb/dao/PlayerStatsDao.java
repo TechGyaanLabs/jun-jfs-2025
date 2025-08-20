@@ -39,6 +39,32 @@ public interface PlayerStatsDao {
      * @return List of players from the specified country
      */
     List<Player> getPlayersByCountry(String country);
-    
 
+
+    class PlayerStatsDaoImpl implements PlayerStatsDao {
+        @Override
+        public List<TeamStatsDto> getTeamStatistics() {
+            return List.of();
+        }
+
+        @Override
+        public List<TopPlayerDto> getTop5HighestAmountPaidPlayers() {
+            return List.of();
+        }
+
+        @Override
+        public List<TopPlayerDto> getTop2HighestAmountPaidPlayersEachTeam() {
+            return List.of();
+        }
+
+        @Override
+        public List<AboveAveragePlayerDto> getPlayersAboveTeamAverage() {
+            return List.of();
+        }
+
+        @Override
+        public List<Player> getPlayersByCountry(String country) {
+            return List.of();
+        }
+    }
 }

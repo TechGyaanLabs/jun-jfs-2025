@@ -1,7 +1,6 @@
 package com.careerit.jfs.cj.iplstatsusingdb;
 
 import com.careerit.jfs.cj.iplstatsusingdb.dao.PlayerStatsDao;
-import com.careerit.jfs.cj.iplstatsusingdb.dao.PlayerStatsDaoImpl;
 import com.careerit.jfs.cj.iplstatsusingdb.dto.TeamStatsDto;
 import com.careerit.jfs.cj.iplstatsusingdb.dto.TopPlayerDto;
 
@@ -11,7 +10,7 @@ public class PlayerStatsManager {
 
     public static void main(String[] args) {
 
-        PlayerStatsDao dao = new PlayerStatsDaoImpl();
+        PlayerStatsDao dao = new PlayerStatsDao.PlayerStatsDaoImpl();
         // 1. Team Stats
         List<TeamStatsDto> teamStats = dao.getTeamStatistics();
 
