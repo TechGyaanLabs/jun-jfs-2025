@@ -21,6 +21,7 @@
         <snakeyaml.version>2.2</snakeyaml.version>
         <fop.version>2.9</fop.version>
         <poi.version>5.2.5</poi.version>
+        <postgresql.version>42.7.7</postgresql.version>
     </properties>
 
     <dependencies>
@@ -91,5 +92,15 @@
             <artifactId>poi-ooxml</artifactId>
             <version>${poi.version}</version>
         </dependency>
+
+       <dependency>
+        <groupId>org.postgresql</groupId>
+        <artifactId>postgresql</artifactId>
+        <version>${postgresql.version}</version>
+    </dependency>
+
+
+
+
     </dependencies>
 </project>
