@@ -8,8 +8,9 @@ import java.util.UUID;
 public interface ContactDao {
     Contact insert(Contact contact);
     Contact update(Contact contact);
-    Contact selectById(Long id);
+    Contact selectById(UUID id);
     List<Contact> selectAll();
     void delete(UUID id);
     List<Contact> searchByName(String name);
+    long getCount();
 }

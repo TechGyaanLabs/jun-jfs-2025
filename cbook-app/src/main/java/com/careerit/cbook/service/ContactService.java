@@ -12,4 +12,5 @@ public interface ContactService {
     ContactDto update(ContactDto contactDto);
     List<ContactDto> searchContactsByName(String name);
     ContactDto getContactById(UUID id);
+    long getCount();
 }
