@@ -13,4 +13,6 @@ public interface ContactDao {
     void delete(UUID id);
     List<Contact> searchByName(String name);
     long getCount();
+    boolean isMobileExists(String mobile);
+    Contact selectByMobile(String mobile);
 }
