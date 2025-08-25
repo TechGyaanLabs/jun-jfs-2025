@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+		https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+
+        <bean name="ccontroller" class="com.careerit.lsc.di.xml.ContractController">
+            <property name="contactService" ref="contactService" />
+        </bean>
+
+        <bean name="contactService" class="com.careerit.lsc.di.xml.ContactServiceImpl">
+            <property name="contactDao" ref="contactDao" />
+        </bean>
+
+        <bean name="contactDao" class="com.careerit.lsc.di.xml.ContactDaoImpl"/>
+
+
+</beans>

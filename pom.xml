@@ -11,6 +11,7 @@
     <modules>
         <module>core-java</module>
         <module>cbook-app</module>
+        <module>learning-spring-core</module>
     </modules>
 
     <properties>
