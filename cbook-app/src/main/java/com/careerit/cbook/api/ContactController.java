@@ -14,8 +14,13 @@ import java.util.UUID;
 @RequestMapping("/api/v1/cbook")
 public class ContactController {
 
+
+    private final ContactService contactService;
+
     @Autowired
-    private ContactService contactService;
+    public ContactController(ContactService contactService) {
+        this.contactService = contactService;
+    }
 
     @GetMapping("/contacts")
     public ApiResponse<List<ContactDto>> getContacts() {
