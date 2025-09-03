@@ -1,0 +1,16 @@
+databaseChangeLog:
+  - changeSet:
+      id: "1"
+      author: "careerit"
+      changes:
+        - sqlFile:
+            path: "main-migration/2025-09/V1__1_ddl_player.sql"
+            splitStatements: true
+            endDelimiter: true
+  - changeSet:
+      id: 2
+      author: "careerit"
+      changes:
+          - sqlFile:
+              path: "main-migration/2025-09/V1__2_ddl_appuser.sql"
+              splitStatements: true

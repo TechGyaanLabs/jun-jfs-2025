@@ -13,6 +13,7 @@
         <module>cbook-app</module>
         <module>learning-spring-core</module>
         <module>learning-util</module>
+        <module>ipl-stats</module>
     </modules>
 
     <properties>
