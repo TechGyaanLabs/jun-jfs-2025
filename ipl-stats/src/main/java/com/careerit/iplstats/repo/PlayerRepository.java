@@ -9,7 +9,8 @@ import java.util.List;
 import java.util.UUID;
 
 public interface PlayerRepository extends JpaRepository<Player, UUID> {
-    
+
+
     // Find players by team
     List<Player> findByTeam(String team);
     
@@ -27,7 +28,8 @@ public interface PlayerRepository extends JpaRepository<Player, UUID> {
     
     // Find players by team and country
     List<Player> findByTeamAndCountry(String team, String country);
-    
+
+
     // Find players by amount range
     List<Player> findByAmountBetween(double minAmount, double maxAmount);
     
@@ -50,7 +52,7 @@ public interface PlayerRepository extends JpaRepository<Player, UUID> {
            "LOWER(p.role) LIKE LOWER(CONCAT('%', :searchTerm, '%')) OR " +
            "LOWER(p.country) LIKE LOWER(CONCAT('%', :searchTerm, '%'))")
     List<Player> searchPlayers(@Param("searchTerm") String searchTerm);
-    
+
     // Get distinct teams
     @Query("SELECT DISTINCT p.team FROM Player p ORDER BY p.team")
     List<String> findDistinctTeams();
@@ -62,4 +64,5 @@ public interface PlayerRepository extends JpaRepository<Player, UUID> {
     // Get distinct countries
     @Query("SELECT DISTINCT p.country FROM Player p ORDER BY p.country")
     List<String> findDistinctCountries();
+
 }
