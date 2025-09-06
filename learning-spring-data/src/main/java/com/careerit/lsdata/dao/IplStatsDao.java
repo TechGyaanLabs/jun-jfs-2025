@@ -6,6 +6,8 @@ import java.util.List;
 
 public interface IplStatsDao {
 
+        TeamStats getTeamStats(String teamLabel);
+
         List<TeamStats> getAllTeamStats();
 
 }
