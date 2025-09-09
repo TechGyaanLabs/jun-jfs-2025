@@ -15,6 +15,7 @@
         <module>learning-util</module>
         <module>ipl-stats</module>
         <module>learning-spring-data</module>
+        <module>wishlist-be-app</module>
     </modules>
 
     <properties>

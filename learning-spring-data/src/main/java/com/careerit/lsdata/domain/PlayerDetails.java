@@ -12,10 +12,10 @@ public class PlayerDetails extends BaseEntity {
 
     private String name;
     private String role;
-    private double amount;
+    private Double amount;
     private String country;
 
-    @ManyToOne(fetch = FetchType.LAZY)
+    @ManyToOne(fetch = FetchType.EAGER)
     @JoinColumn(name = "team_id")
     private TeamDetails team;
 }
